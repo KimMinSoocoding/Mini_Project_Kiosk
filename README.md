@@ -73,3 +73,30 @@
 - 각 실제 카페에 존재하는 키오스크 3대를 직접 방문하여 조작하고 관찰하여 주문부터 결제까지 어느 방식으로 자연스럽게 흘러가는지 조사하여 요구사항 확정
 - 싱글톤 패턴사용 : 싱글톤 패턴은 '하나'의 인스턴스만 생성하여 사용하는 디자인 패턴으로써 인스턴스가 필요할 때, 똑같은 인스턴스를 만들지 않고 기존의 인스턴스를 활용하였다.
 - 영속성 사용
+
+## 📌 프로젝트 시연
+#### 주문 -> 결제 -> 관리자 순서
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/69bb8259-37a4-4985-97c6-a9d5b3f9b7e4">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/0306df91-c7a8-4288-8258-9a189b9bdef5">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/19de8f95-25f6-4a43-9a39-d35d78355dd9">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/bda92da5-def5-4fd3-b40c-ce5af5dd9210">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/0892db4c-4cbf-4727-8320-cbbe7e30a18f">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/79f6167d-8006-41df-b77f-668a1bbbf717">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/5c64bd5b-43c3-48db-a6dd-e56413ffdcba">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/79ba789e-b703-4a42-8371-4c871dca5021">
+<br>
+<img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/d0298ef9-ef53-4ebd-9229-9ee1afebd871">
+
+
+
+
+
+
+

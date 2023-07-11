@@ -76,23 +76,47 @@
 
 ## 📌 프로젝트 시연
 #### 주문 -> 결제 -> 관리자 순서
+<img width="463" alt="image" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/1ea029aa-9fc0-43a2-8571-24d0ec001b94">
+
+#### 선택하고자 하는 메뉴 번호를 받아 리스트 보기
+
+<br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/69bb8259-37a4-4985-97c6-a9d5b3f9b7e4">
+
+#### (유효성검증 : 해당 범위 내에 있는 음료만 주문 가능) / 주문하고자하는 음료코드 입력 
+
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/0306df91-c7a8-4288-8258-9a189b9bdef5">
+
+#### 추가주문 이후 장바구니 확인 / 음료갯수, 총 금액, 음료리스트 확인가능 및 상품추가,삭제,결제 진행메뉴 보여주기
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/19de8f95-25f6-4a43-9a39-d35d78355dd9">
+
+#### 상품추가 번호 입력한후 메인페이지 화면 복귀
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/bda92da5-def5-4fd3-b40c-ce5af5dd9210">
+
+#### 추가주문 이후 장바구니 -> 삭제진행, 삭제 진행후 확인(총 금액, 총 갯수) 
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/0892db4c-4cbf-4727-8320-cbbe7e30a18f">
+
+#### 결제하기 진행 -> 상품목록 다시한번 보여주고 전화번호 입력하여 회원제로 진행(쿠폰발급 위함) -> 음료갯수만큼 쿠폰적립 진행완료 
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/79f6167d-8006-41df-b77f-668a1bbbf717">
+
+#### 관리자페이지 진행 / 매출조회, 기존 더미데이터에 등록되어 있던 상품삭제 진행
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/5c64bd5b-43c3-48db-a6dd-e56413ffdcba">
+
+#### 관리자페이지 진행 / 회원수정(전화번호 수정) 진행 
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/79ba789e-b703-4a42-8371-4c871dca5021">
+
+#### 관리자페이지 진행 / 회원정보 수정이 잘처리되었는지 확인
 <br>
 <img width="463" src="https://github.com/KimMinSoocoding/Mini_Project_Kiosk/assets/113892151/d0298ef9-ef53-4ebd-9229-9ee1afebd871">
+
+#### 관리자페이지 진행 / 상품추가 진행, 상품카테고리,번호,상품명,가격 입력후 더미데이터에 들어갔는지 확인 
 
 
 
